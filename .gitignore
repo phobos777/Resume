@@ -1,0 +1,13 @@
+# Private contact info — never commit
+*.private.md
+*.private.csv
+*.private.json
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor noise
+.vscode/
+.idea/
+*.swp

@@ -27,6 +27,9 @@ This repo is the home base for the three workstreams that get me to that role:
    - Map target connections: current Anthropic employees (sales, GTM, leadership), recruiters, mutuals who can refer.
    - Warm-intro list + cold outreach templates.
    - Track conversations, follow-ups, and referrals.
+   - Tracking lives in `networking/` — one file per target in `networking/targets/`, rolled up in `target_list.md`, with every touch in `outreach_log.md`. See `networking/README.md`.
+   - **Research tools (legit):** Jason has LinkedIn Premium / Sales Navigator. For bulk enrichment of non-connections we use Apollo.io or Clay.com (both have Anthropic indexed, both export CSV). We do **not** scrape LinkedIn — ToS + reputational risk for a Head-of-Sales-at-Anthropic candidate.
+   - **Privacy:** repo stays private. Anything with email/phone goes in `*.private.md` (gitignored).
 
 ## Certifications & Credentials
 - Inventory every relevant certification (sales methodologies, AI/ML, cloud, leadership programs).

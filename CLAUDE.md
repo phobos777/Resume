@@ -45,5 +45,18 @@ This repo is the home base for the three workstreams that get me to that role:
 - Drop resume drafts, JD captures, outreach notes, and certification lists into the repo as we build them.
 - Branch convention: feature branches like `claude/<topic>` for each workstream (resume edits, LinkedIn copy, outreach drafts).
 
+## Reference Materials in Repo
+- `resume/JasonForish_Resume_2023_original.docx` — original Word doc (2 years old, no AI content yet). Reference only.
+- `resume/JasonForish_Resume_2023_reference.md` — clean Markdown transcription of the 2023 resume, used as the starting point for the rewrite. Ends with a **"Gaps to Close for Anthropic Head of Sales"** section flagging what's missing.
+
+## Jason — Snapshot (from 2023 resume)
+- 20+ years in enterprise tech sales / sales leadership.
+- Current: **Solutions Director / Director, Cloud Technology @ Insight** (March 2021 → present). 150%, 151%, 120% attainment.
+- Prior: Monument Technologies, Accenture/Avanade (#1 of 300 sellers in NA in 2018, 250% to quota, $25M on $10M target), Microsoft (12+ years, $27M quota, 108% avg, #1 NE customer-sat).
+- Education: UCLA Anderson (Avanade MBA Exec), OHSU (Microsoft MBA pilot), Northeastern BS.
+- Active certs (2023): Azure Solution Architect – Expert, AWS Well-Architected – Proficient.
+- **Gaps:** no AI/LLM positioning; resume needs 2023→2026 update; framing needs to shift from Solutions/Account Exec to **Head of Sales** (team scale, GTM ownership, hiring/coaching, exec reporting).
+
 ## Status
-- Repo initialized. Next: import current resume + LinkedIn export, capture the Anthropic Head of Sales JD, and inventory certifications.
+- Repo initialized. CLAUDE.md + 2023 reference resume committed.
+- **Next:** (1) capture 2023→2026 accomplishments and AI exposure from Jason, (2) refresh certifications list, (3) pull live Anthropic Head of Sales JD, (4) draft v1 of the tailored resume.
